@@ -51,6 +51,13 @@ input, textarea {
 }
 
 .logo {
-    height: 70px;
-    margin: 0px 12px;
+    float: left;
+    width: 80px; 
+    padding: 10px; 
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.logo:hover {
+    opacity: 0.3;
 }
