@@ -35,9 +35,9 @@ p {
 
 .pagetitle {
     float: left;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
-    padding: 25px 50px 25px 50px;
+    padding: 22.5px 50px 22.5px 50px;
     color: rgb(255, 255, 255);
     background-color: #4aaaa5;
 }
