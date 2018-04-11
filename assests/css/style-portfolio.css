@@ -1,4 +1,4 @@
-.portfoliocontainer {
+.container {
     width: 920px;
     padding: 20px;
     margin: 20px auto auto auto;
@@ -7,13 +7,11 @@
 }
 
 .projectscontainer {
-    position: relative;
     float: left;
     width: 50%;
 
 }
 .projectsbg {
-    position: relative;
     Margin: 5%;
     width: 90%;
     z-index: 2;
