@@ -21,10 +21,7 @@
 
 .projectlabel {
     position: relative;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
     text-align: center;
-    color: #ffffff;
-    font-size: 20px;
     padding: 15px 0px 15px 0px;
     width: 90%;
     margin: auto;
@@ -37,4 +34,13 @@
 
 .projectlabel:hover {
     opacity: 0.3;
+}
+
+.projlink {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
